@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\apikeyauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|solutionrelative:apikeyauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|DotNetMinimalAPIExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|solutionrelative:model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\model\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|solutionrelative:model\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|c:\\users\\yugarajan\\source\\repos\\dotnetminimalapiexample\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50D14ED-40BC-4C04-B78B-6C6E7A962271}|Api_Key_Authentication.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:40:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:39:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:39:47.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiKey.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\ApiKey.cs",
+              "RelativeDocumentMoniker": "Model\\ApiKey.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Model\\ApiKey.cs",
+              "RelativeToolTip": "Model\\ApiKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:39:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiKeyAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\ApiKeyAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "ApiKeyAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\ApiKeyAuthenticationHandler.cs",
+              "RelativeToolTip": "ApiKeyAuthenticationHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:11:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T13:59:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yugarajan\\source\\repos\\DotNetMinimalAPIExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:16:02.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
